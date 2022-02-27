@@ -26,7 +26,7 @@ public class Main {
 			
 			
 		Scanner sc= new Scanner(System.in);
-		System.out.println("hey!! welcome to program");
+		System.out.println("hey!! welcome to program new thing added by git edit option");
 		System.out.println("enter the size of an array ");
 		int size = sc.nextInt();
 		
